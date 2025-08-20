@@ -68,6 +68,7 @@ For HDR displays:
 - **Saturation**: Color saturation control
 
 ## Known Issues
+- **Ray-tracing**: Raytracing does not work properly with this mod yet.
 
 ## Troubleshooting
 
